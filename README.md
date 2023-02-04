@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duck-bongos
 - 👀 I’m interested in ... { improving human health outcomes, scalable deep learning, movement analysis, learning programming languages }
-- 🌱 I’m currently learning ... { C++, discrete conformal geometry, manifold symmetry metrics, PyTorch }
+- 🌱 I’m currently learning ... { C++, discrete differential geometry, non-rigid registration, PyTorch }
 - 💞️ I’m looking to collaborate on ... anything to help the medical community help people!
 - 📫 How to reach me ... open a PR here!
 
