@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duck-bongos
 - 🤓 I'm a machine learning engineer 🤓
-- 👀 I’m interested in ... { Machine Learning, Empathetic Programming Practices, Python language bindings, APIs, DRY, Pair Programming }
+- 👀 I’m interested in ... { Machine Learning, Empathetic Programming Practices, Python language bindings, APIs }
 
 <!---
 duck-bongos/duck-bongos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
