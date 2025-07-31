@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duck-bongos
 - 🤓 I'm a machine learning engineer 🤓
-- 👀 I’m interested in ... { Using Python as an API for more performant languages, Empathetic Programming Practices, Developer UX, APIs, Responsible AI in Medicine }
-- 🌱 I’m currently learning ... { Rust Programming Language, Python language bindings }
+- 👀 I’m interested in ... { Silly CRUD apps, Using Python as an API for more performant languages, Empathetic Programming Practices, Developer UX, APIs, Responsible AI in Medicine }
+- 🌱 I’m currently learning ... { Rust Programming Language, Python language bindings, CRUD, Neovim }
 
 <!---
 duck-bongos/duck-bongos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
